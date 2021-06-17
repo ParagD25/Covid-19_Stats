@@ -1,58 +1,61 @@
-# Covid-19_Stats
+# Covid-19 India Stats
 
-Creating Graphs From HighCharts and JustPy
+Creating Graphs using HighCharts and JustPy.
 
 ## Overview 🚀:
 
-Graph Representing average number of cases, recoveries and deaths due to covid-19 in India in a day <br>
+Graph Representing average number of cases, recoveries and deaths due to covid-19 in India in a day. <br>
 
-### Libraries Used 📋:
+## Libraries Used 📋:
 
-<b><i>justpy</i></b><br>
-<b><i>Pandas</i></b><br>
-<b><i>HighCharts</i></b><br>
+<li><b><i>justpy</i></b><br></li>
+<li><b><i>Pandas</i></b><br></li>
+<li><b><i>HighCharts</i></b><br></li>
 
 ## How To Use 🔧
 
 From your command line, first clone Tic-Tac-Toe:
-
-bash
-# Clone this repository
+<br><br>
+\# Clone this repository<br>
 $ git clone https://github.com/ParagD25/Covid-19_Stats
+<br><br>
 
-# Go into the repository
+\# Go into the repository<br>
 $ cd Covid-19_Stats
+<br><br>
 
-# Remove current origin repository
+\# Remove current origin repository<br>
 $ git remote remove origin
 
 Then you can install the dependencies either using NPM or Yarn:
 
 Using NPM:
 
-bash
-# Install dependencies
+\# Install dependencies<br>
 $ npm install
 
-# Start development server
+\# Start development server<br>
 $ npm start
 
 Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/main_graph.png" alt="Covid-19" width="30%">
+  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/main_graph.png" alt="Covid-19" width="100%">
 </h2>
 
 ## Screenshots
-<h2 align="center">
-  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/Confirmed.png" alt="Covid-19" width="30%">
-</h2>
-<h2 align="center">
-  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/Recovery.png" alt="Covid-19" width="30%">
-</h2>
-<h2 align="center">
-  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/Death.png" alt="Covid-19" width="30%">
-</h2>
+<p align="center"><h3 align="center">Covid Growth Rate</h3>
+  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/Confirmed.png" alt="Covid-19" width="100%">
+</p>
+<p align="center"><h3 align="center">Recovery Rate</h3>
+  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/Recovery.png" alt="Covid-19" width="100%">
+</p>
+<p align="center"><h3 align="center">Death Rate</h3>
+  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/Death.png" alt="Covid-19" width="100%">
+</p>
+<p align="center"><h3 align="center">Reading Data</h3>
+  <img src="https://github.com/ParagD25/Covid-19_Stats/blob/master/Screenshots/Read_Data.png" alt="Covid-19" width="100%">
+</p>
 
 ## Contributing
 
