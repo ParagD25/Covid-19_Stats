@@ -14,7 +14,7 @@ Graph Representing average number of cases, recoveries and deaths due to covid-1
 
 ## How To Use 🔧
 
-From your command line, first clone Tic-Tac-Toe:
+From your command line, first clone Covid-19_Stats:
 <br><br>
 \# Clone this repository<br>
 $ git clone https://github.com/ParagD25/Covid-19_Stats
